@@ -16,6 +16,10 @@ This ensures instant, accurate, and source-backed answers to operational and cus
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-n8n-Templates/10.-RAG-AI-Agent-Restaurant-Use-Case-Chat-Model-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=ZkPikb5TBNc)
+
+---
+
 ## 👥 **Who Benefits & Problems Solved**
 
 ### 🎯 **Primary Beneficiaries**
